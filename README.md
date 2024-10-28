@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science Aspirant
 ---------------------
 
-Hey there! I'm a first-year BSc Data Science student, super pumped about diving deep into the world of data analysis, machine learning, and statistical modeling. My journey in this field is all about mastering these skills, and I'm soaking up everything I can. Right now, my course is developing me with a solid foundation in programming languages such as Python and R along with expertise in data manipulation and visualization tools. But I'm eager to push further into predictive analytics, data mining, and artificial intelligence. I've got this adventurous streak that keeps me hungry for new challenges. For me, learning and teaching go hand in hand – I'm always down to share knowledge and soak up insights from others. I'm really looking forward to connecting with professionals, fellow data nerds, and mentors who share the fascination for uncovering insights from the vast world of data.
+Hi, I’m Naksh Jain Sonigara. I’m passionate about creating intelligent systems with machine learning and artificial intelligence. I’m currently focused on end-to-end projects that combine model development, deployment, frontend design, and database management, along with exploring big data tools like Hadoop and Hive. My goal is to build impactful, scalable solutions while continually advancing my skills in system development, data analytics, and machine learning. Here, you’ll find projects that showcase my journey as I apply my knowledge to real-world data and applications.
 
 * 🌍  I'm based in Mumbai,India.
 * ✉️  You can contact me at [jainnaksh576@gmail.com](mailto:jainnaksh576@gmail.com)
 * 🧠  I'm learning Statistical Modeling and Data Analysis for AI/ML
+* 🚀  I’m passionate about developing intelligent systems powered by AI and ML
 * 🤝  I'm open to collaborating on Data Science Projects
 
 ### Skills
