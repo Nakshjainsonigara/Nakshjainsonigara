@@ -43,3 +43,4 @@ Hi, I’m Naksh Jain Sonigara. I’m passionate about creating intelligent syste
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshjainsonigara&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nakshjainsonigara&theme=github-compact&line=9745f5)](https://github.com/ashutosh00710/github-readme-activity-graph)
