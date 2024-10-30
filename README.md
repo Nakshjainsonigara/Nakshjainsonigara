@@ -1,10 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Naksh Jain Sonigara
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Naksh Jain Sonigara!
 ===========================================================================================================================================
 
-Data Science Aspirant
----------------------
-
-Hi, I’m Naksh Jain Sonigara. I’m passionate about creating intelligent systems with machine learning and artificial intelligence. I’m currently focused on end-to-end projects that combine model development, deployment, frontend design, and database management, along with exploring big data tools like Hadoop and Hive. My goal is to build impactful, scalable solutions while continually advancing my skills in system development, data analytics, and machine learning. Here, you’ll find projects that showcase my journey as I apply my knowledge to real-world data and applications.
+I’m a data science student who loves building smart systems with machine learning and AI. Lately, I’ve been diving into end-to-end projects that bring together everything from model building and deployment to frontend design and data management. My goal? To make scalable solutions that tackle real-world challenges while I keep leveling up in system development and analytics. Check out my projects to see the journey so far—real data, real apps, and plenty of hands-on learning.
 
 * 🌍  I'm based in Mumbai,India.
 * ✉️  You can contact me at [jainnaksh576@gmail.com](mailto:jainnaksh576@gmail.com)
@@ -44,3 +41,6 @@ Hi, I’m Naksh Jain Sonigara. I’m passionate about creating intelligent syste
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nakshjainsonigara&theme=github-compact&line=9745f5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+--------------------------------------------------
+
+[![](https://visitcount.itsvg.in/api?id=Nakshjainsonigara&label=Profile%20Views&color=11&icon=1&pretty=true)](https://visitcount.itsvg.in)
