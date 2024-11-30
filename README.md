@@ -5,9 +5,8 @@ I’m a data science student who loves building smart systems with machine learn
 
 * 🌍  I'm based in Mumbai,India.
 * ✉️  You can contact me at [jainnaksh576@gmail.com](mailto:jainnaksh576@gmail.com)
-* 🧠  I'm learning Statistical Modeling and Data Analysis for AI/ML
 * 🚀  I’m passionate about developing intelligent systems powered by AI and ML
-* 🤝  I'm open to collaborating on Data Science Projects
+* 🤝   I'm open to collaborating on innovative projects
 
 ### Skills
 
