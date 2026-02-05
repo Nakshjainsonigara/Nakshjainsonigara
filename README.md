@@ -1,12 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Naksh Jain Sonigara!
 ===========================================================================================================================================
 
-I'm a data science undergrad working on AI/ML. I don't just follow the steps, I like figuring out the 'why' and 'how' behind things. I’m always experimenting, learning from what works, and tweaking what doesn’t, with the goal of really understanding how it all fits together.
+AI/ML Enginner, Data Science Undergrad
 
-* 🌍  I'm based in Mumbai,India.
-* ✉️  You can contact me at [jainnaksh576@gmail.com](mailto:jainnaksh576@gmail.com)
-* 🚀  I’m passionate about AI and ML
-* 🤝   I'm open to collaborating on innovative projects
+About me and my portfolio: https://nakshjainsonigara.vercel.app/
 
 ### Skills
 
